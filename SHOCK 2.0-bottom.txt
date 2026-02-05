@@ -1,0 +1,19 @@
+### Footprint positions - created on 2025-06-25T12:51:41-0700 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val          Package                                           PosX       PosY       Rot  Side
+C1        1uF          C_1210_3225Metric_Pad1.33x2.70mm_HandSolder   134.8000   -98.0000   90.0000  bottom
+C2        10uF         C_1210_3225Metric_Pad1.33x2.70mm_HandSolder   140.4800  -101.3100  180.0000  bottom
+C3        0.1uF        C_1210_3225Metric_Pad1.33x2.70mm_HandSolder   146.4000   -95.8000   90.0000  bottom
+C4        10uF         C_1210_3225Metric_Pad1.33x2.70mm_HandSolder   134.4000   -92.6000  -90.0000  bottom
+D2        D_Zener      D_SOD-123F                                    134.8000  -115.2000   90.0000  bottom
+Q1        PMOS         SOT-23                                        144.2625  -121.0000    0.0000  bottom
+R4        100R         R_2010_5025Metric_Pad1.40x2.65mm_HandSolder   141.2000  -113.4000    0.0000  bottom
+R5        130R         R_2010_5025Metric_Pad1.40x2.65mm_HandSolder   135.6000   -71.4000   90.0000  bottom
+R6        120R         R_2010_5025Metric_Pad1.40x2.65mm_HandSolder   139.8100   -71.4000   90.0000  bottom
+R7        100R         R_2010_5025Metric_Pad1.40x2.65mm_HandSolder   144.2000   -71.4000   90.0000  bottom
+R8        1M           R_2010_5025Metric_Pad1.40x2.65mm_HandSolder   140.8800   -97.1100  180.0000  bottom
+R9        100k         R_2010_5025Metric_Pad1.40x2.65mm_HandSolder   141.0000   -93.3100  180.0000  bottom
+U3        L7805CDT-TR  TO-252-2                                      139.7600  -106.4725  180.0000  bottom
+## End
